@@ -3,4 +3,4 @@ Incompressible flow simulation over circular obstacles.
 
 
 
-![crab pet](https://i.imgur.com/yYVBgHV.gif)
+![crab pet](https://vk.com/video435728588_456239346)

@@ -6,7 +6,7 @@
 ![crab pet](https://i.imgur.com/ftjWcRs.gif)
 
 
-Meshing done in Salome and simulation in OpenFOAM.
+Meshing was done in Salome and simulation in OpenFOAM.
 
 To run the case:-
 ```
